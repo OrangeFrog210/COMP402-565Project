@@ -1,3 +1,3 @@
-# COMP402-Project
+# COMP402-565Project
 
-Honour Project repo.
+Project repo for COMP565 (Machine Learning in Genomics and Healthcare) and COMP402 (Honours Project)
